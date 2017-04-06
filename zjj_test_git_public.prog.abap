@@ -12,3 +12,6 @@ write:/ 'hello'.
 
 write:/ 'hello1'.
 write:/ 'hello1'.
+
+
+write:/ 'hello12'.
